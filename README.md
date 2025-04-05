@@ -7,7 +7,7 @@ Orbs and Blade Project Explained
 
 About the attack: 
 <div>
-  <img  align="center" Height="720" width="901" scr="">
+  <img src="https://github.com/RayconSD/Orbs-and-blades-base/blob/main/orbs%20%26%20blades%20-%20triggers.png" alt="Texto alternativo" width="500" />
 </div>
 
 The first "if" activates some variables, like stopping the player movement, creating an array, taking the enemy's coordinates, and setting a timer for normal attacks. 
