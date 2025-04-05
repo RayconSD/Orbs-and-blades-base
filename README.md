@@ -7,7 +7,7 @@ Orbs and Blade Project Explained
 
 About the attack: 
 <div>
-  <img  align="center" alt="" Height="720" width="901" scr="https://cdn.discordapp.com/attachments/1233167310873956412/1358132038980337814/orbs__blades_-_GameMaker_05_02_2025_16_40_44.png?ex=67f2ba86&is=67f16906&hm=163812b58a6120625d8af9384be14471b0150bde4eacd5e497a1daf5cc5a5f3c&">
+  <img  align="center" Height="720" width="901" scr="">
 </div>
 
 The first "if" activates some variables, like stopping the player movement, creating an array, taking the enemy's coordinates, and setting a timer for normal attacks. 
